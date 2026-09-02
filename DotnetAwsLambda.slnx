@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/FileProcessor.Application/FileProcessor.Application.csproj" />
+  <Project Path="src/FileProcessor.Function/FileProcessor.Function.csproj" />
+  <Project Path="tests/FileProcessor.UnitTests/FileProcessor.UnitTests.csproj" />
+</Solution>
